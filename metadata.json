@@ -1,0 +1,6 @@
+{
+  "name": "CipherChat",
+  "description": "Aplicativo de mensagens anônimo e privado com criptografia de ponta a ponta, sem necessidade de número de telefone, chamadas de voz/vídeo cifradas, arquivos com autodestruição, cache offline e autenticação biométrica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
